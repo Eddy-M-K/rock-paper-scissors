@@ -1,3 +1,5 @@
 # rock-paper-scissors
 
-Second project from "The Odin Project"
+Second project from "The Odin Project".
+
+Javascript minigame.
